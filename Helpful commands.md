@@ -9,7 +9,7 @@ You can also directly open cmd through mouse.
 * dir - to look contents of directory
 * mv - move
 ***
-## Compiling a c file
+## `Compiling a c file`
 1. `Move` to the directory in `cmd` where your file is placed through `cd command`.
 2. type `gcc file_name.c`
 3. In cmd type `a` to run the compiled file.
