@@ -1,0 +1,21 @@
+double aryan; // through this we declare a variable named aryan of decimal type
+
+Rules:
+1. cannot start with numbers or symbols
+2. valid symbol is _
+
+
+There is a concept of placeholders.
+printf("Number is %d.",number);
+int -> %d -> integer
+float -> %lf ->float
+char -> %c -> character
+
+Collection of characters is string.
+char array -> %s -> string
+
+array -> infront of variable just add a box ex. 
+char name[]= "Aryan";
+Rule:
+1. Character is written in single inverted commas i.e. ' '
+2. String is written in double inverted commas i.e. " " 
