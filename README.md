@@ -5,6 +5,7 @@
 You can also directly open cmd through mouse.
 ## CMD Commands
 ***
+* mkdir -make directory
 * cd - change directory
 * dir - to look contents of directory
 * mv - move
